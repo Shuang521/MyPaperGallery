@@ -1,6 +1,6 @@
 {
   "name": "react-example",
-  "package": "https://github.com/Shuang521/MyPaperGallery.git",
+  "homepage": "https://github.com/Shuang521/MyPaperGallery.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
